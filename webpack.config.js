@@ -4,7 +4,7 @@ import TerserPlugin from 'terser-webpack-plugin';
 import CopyPlugin from 'copy-webpack-plugin';
 import webpack from 'webpack';
 import { readFile } from 'fs/promises';
-
+ //
 // read version from package.json
 const pk = JSON.parse(await readFile(new URL('package.json', import.meta.url)));
 process.env.ULTRAVIOLET_VERSION = pk.version;
