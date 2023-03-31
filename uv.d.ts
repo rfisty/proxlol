@@ -8,7 +8,7 @@ export type UVClientCtor = typeof UVClient;
  * The proxy part of the URL.
  */
 type Coded = string;
-
+//
 /**
  * The URL encoder.
  * Encoders will have to encode the result using encodeURLComponent.
