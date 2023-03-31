@@ -5,7 +5,7 @@ import HookEvent from '../hook.js';
  * @typedef {import('../index').default} UVClient
  */
 
-class DocumentHook extends EventEmitter {
+class DocumentHook extends EventEmitter {//
     /**
      *
      * @param {UVClient} ctx
