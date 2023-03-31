@@ -10,7 +10,7 @@ class NavigatorApi extends EventEmitter {
      *
      * @param {UVClient} ctx
      */
-    constructor(ctx) {
+    constructor(ctx) {//
         super();
         this.ctx = ctx;
         this.window = ctx.window;
