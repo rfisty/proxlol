@@ -1,7 +1,7 @@
 {
-    "name": "@titaniumnetwork-dev/ultraviol",
+    "name": "mama",
     "version": "1.0.11",
-    "description": "Hia",
+    "description": "mama",
     "main": "lib/index.cjs",
     "license": "MIT",
     "repository": {
