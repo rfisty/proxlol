@@ -8,7 +8,7 @@ import Fetch from './requests/fetch.js';
 import Xhr from './requests/xhr.js';
 import EventSourceApi from './requests/eventsource.js';
 import History from './history.js';
-import LocationApi from './location.js';
+import LocationApi from './location.js'; //
 import MessageApi from './message.js';
 import NavigatorApi from './navigator.js';
 import Workers from './worker.js';
